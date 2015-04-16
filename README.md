@@ -9,7 +9,8 @@
 * ```vagrant halt``` Stopp VM
 * ```vagrant reload``` Last opp med ny Vagrant-konfigurasjon
 
-## Introduksjon
+## Oppsett
+![Oppsett](rig.png)
 
 ## Ressurser
 * http://cbonte.github.io/haproxy-dconv/configuration-1.5.html
